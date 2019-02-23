@@ -1,2 +1,2 @@
 # SecConArchive
-Security Conference Archive
+Security Conference Archive (paper/slide/code)
